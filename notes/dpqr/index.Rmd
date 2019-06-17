@@ -42,7 +42,7 @@ examples of using `dnorm` are below:
 dnorm(0, mean = 0, sd = 1)
 
 # The line of code below does the same thing as the same as the line of code 
-# above, since mean = 0 and sd = 0 are the default arguments for the dnorm 
+# above, since mean = 0 and sd = 1 are the default arguments for the dnorm 
 # function.
 
 dnorm(0)
